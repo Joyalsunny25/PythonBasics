@@ -39,13 +39,13 @@ b=int(input("Enter the second number:"))
 print("Enter your choice:")
 print("1.Addition\n2.Substraction\n3.Multiplication\n4.Division")
 choice=int(input("Enter Your Choice:"))
-if choice==1:
-    print("Result is:",a+b)
-elif choice==2:
-    print("Result is:",a-b)
-elif choice==3:
-    print("Result is:",a*b)
-elif choice==4:
-    print("Result is:",a/b)
-else:
-    print("Invalid Input")
+# if choice==1:
+#     print("Result is:",a+b)
+# elif choice==2:
+#     print("Result is:",a-b)
+# elif choice==3:
+#     print("Result is:",a*b)
+# elif choice==4:
+#     print("Result is:",a/b)
+# else:
+#     print("Invalid Input")
